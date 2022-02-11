@@ -4,24 +4,24 @@ revision: '00001'
 annotations:
   c1d6c48ac7334c319e489dc954376595:
     span:
-      start: 6302
-      end: 6302
+      start: 6284
+      end: 6284
   0bf733d8a0ae455d8f71a45571134f9d:
     span:
-      start: 6366
-      end: 6366
+      start: 6348
+      end: 6348
   d175faab0afe426c9f53a854a20c0161:
     span:
-      start: 6399
-      end: 6399
+      start: 6381
+      end: 6381
   48c32c4d143e42c8bdbcffa9aa022da8:
     span:
-      start: 6518
-      end: 6518
+      start: 6500
+      end: 6500
   185c99d5f0db4c5786881b38e6672a24:
     span:
-      start: 6692
-      end: 6692
+      start: 6674
+      end: 6674
 local_ids:
   c1d6c48ac7334c319e489dc954376595: 200000
   0bf733d8a0ae455d8f71a45571134f9d: 200001
