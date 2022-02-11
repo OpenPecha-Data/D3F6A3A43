@@ -7,5 +7,5 @@ annotations:
     span:
     - vol: 64
       start: 0
-      end: 8023
+      end: 7997
     work_id: D3937
